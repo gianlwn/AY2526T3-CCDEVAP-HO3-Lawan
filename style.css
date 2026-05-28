@@ -14,7 +14,7 @@ body {
   border-radius: 15px;
   width: 350px;
   text-align: center;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
 }
 
 h1 {
@@ -22,8 +22,8 @@ h1 {
 }
 
 h4 {
-	font-style: italic;
-	color: grey;
+  font-style: italic;
+  color: grey;
 }
 
 .question {
